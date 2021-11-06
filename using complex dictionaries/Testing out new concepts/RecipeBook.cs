@@ -19,86 +19,76 @@ namespace Testing_out_new_concepts
         {
             _inputProvider = inputProvider;
             _outputProvider = outputProvider;
+            //used instead of a switch case in the bartender method.
+            //allows a list that is easier to edit and add to.
             _recipes = new Dictionary<string, Action>
             {
-                {"beer", ServeBeer },
-                {"juice", ServeJuice},
-                {"reverse", reverseString},
+                {"beer", serveBeer },
+                {"juice", serveJuice},                
+                {"tutor" , getTutor },
                 {"exit", exitProgram},
+
             };
         }
         
-        public void MakeDrink(string drinkName)
+        public void makeDrink(string drinkName)
         {
+            //used to call the dictionary actions by their keys
             _recipes[drinkName]();
         }
 
-        public IEnumerable<string> GetAvailableDrinkNames()
+        //used to store all the keys from the _recipes dictionary
+        public IEnumerable<string> getAvailableDrinkNames()
         {
             return _recipes.Keys;
         }
 
-        public void ServeBeer()
+        //when asked to serve a beer it asks how old the user is before sending it to the ageCheck method
+        public void serveBeer()
         {
             _outputProvider("woah woah woah how old are you?");
             int age = int.Parse(_inputProvider());
             ageCheck(age);
         }
-
-        public void ServeJuice()
+        //just serves juice
+        public void serveJuice()
         {
             _outputProvider("Have some nice cold JUICE\n");
+            System.Threading.Thread.Sleep(2000);
+            Console.Clear();
         }
-
+        //checks to ensure the user is old enough to drink (21 in the USA)
+        //if they are they get served a nice warm beer and if not they get told they are not old enough.
         public void ageCheck(int age)
         {
 
-            if (age >= 18)
+            if (age >= 21)
             {
                 _outputProvider("Here's your warm beer sir\n");
+                System.Threading.Thread.Sleep(2000);
+                Console.Clear();
                 return;
             }
             _outputProvider("Sorry bud your are not old enough");
+            System.Threading.Thread.Sleep(2000);
+            Console.Clear();
 
         }
-
-        //public void reverseString()
-        //{
-        //    _outputProvider("Please type a word or phrase you would like backwards.");
-        //    string initial;
-        //    initial = _inputProvider();            
-        //    int length = initial.Length;
-        //    char[] reverse = new char[length];
-        //    string final = "";
-            
-        //    for (int i = 0; i<initial.Length; i++)
-        //    {
-        //        reverse[i] = initial[(length-1) - i];
-        //    }
-
-        //    for(int i = 0; i<reverse.Length; i++)
-        //    {
-        //        final += reverse[i];
-        //    }
-            
-        //    _outputProvider($"{final} is the word reversed");
-
-
-        //}
-        public void reverseString()
+        //used to break the bartender loop so it goes back to the main program and calls the tutor class
+        public void getTutor()
         {
-            _outputProvider("what word or phrase would you like reversed?");
-            string s = _inputProvider();
-            char[] charArray = s.ToCharArray();
-            Array.Reverse(charArray);
-            string final = new string(charArray);
-            _outputProvider($"{final} is the word reversed");
-        }
+            _outputProvider("Let me go get them, wait right here for one second.");
+            System.Threading.Thread.Sleep(1000);
+            Console.Clear();
+            bartender.flag = false;
+            return;
 
+        }
+        //used to force the program to exit after a short 1 second delay
         public void exitProgram()
         {
             _outputProvider("Thank you for coming have a great day!");
-            System.Threading.Thread.Sleep(5000);
+            System.Threading.Thread.Sleep(1000);
             Environment.Exit(0);
         }
 

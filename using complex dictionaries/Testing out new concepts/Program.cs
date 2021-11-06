@@ -12,12 +12,15 @@ namespace Testing_out_new_concepts
         {
             
             var recipeBook = new RecipeBook(Console.ReadLine, Console.WriteLine);
-            var bartender = new bartender(Console.ReadLine, Console.WriteLine, recipeBook);
+            var bartender = new bartender(Console.ReadLine, Console.WriteLine, recipeBook); //passes the RecipeBook class to use the dictionary without constructing
+            var subjectList = new funMath(Console.ReadLine, Console.WriteLine);
+            var tutor = new Tutor(Console.ReadLine, Console.WriteLine, subjectList); //passes the funMath class to use the dictionary without constructing
 
             bartender.AskForDrink();
-
+            tutor.AskForHelp();
             Console.ReadKey();
         }
 
     }
+
 }

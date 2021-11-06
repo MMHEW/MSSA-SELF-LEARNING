@@ -44,9 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="bartender.cs" />
+    <Compile Include="funMath.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RecipeBook.cs" />
+    <Compile Include="Tutor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
