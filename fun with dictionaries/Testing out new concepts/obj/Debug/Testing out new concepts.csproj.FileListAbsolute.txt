@@ -1,0 +1,14 @@
+C:\Users\fuzzy\Documents\Visual Studio Repos\Concepts\Testing out new concepts\bin\Debug\Testing out new concepts.exe.config
+C:\Users\fuzzy\Documents\Visual Studio Repos\Concepts\Testing out new concepts\bin\Debug\Testing out new concepts.exe
+C:\Users\fuzzy\Documents\Visual Studio Repos\Concepts\Testing out new concepts\bin\Debug\Testing out new concepts.pdb
+C:\Users\fuzzy\Documents\Visual Studio Repos\Concepts\Testing out new concepts\obj\Debug\Testing out new concepts.csproj.AssemblyReference.cache
+C:\Users\fuzzy\Documents\Visual Studio Repos\Concepts\Testing out new concepts\obj\Debug\Testing out new concepts.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Documents\Visual Studio Repos\Concepts\Testing out new concepts\obj\Debug\Testing out new concepts.exe
+C:\Users\fuzzy\Documents\Visual Studio Repos\Concepts\Testing out new concepts\obj\Debug\Testing out new concepts.pdb
+C:\Users\fuzzy\Documents\Visual Studio Repos\using complex dictionaries\Testing out new concepts\bin\Debug\Testing out new concepts.exe.config
+C:\Users\fuzzy\Documents\Visual Studio Repos\using complex dictionaries\Testing out new concepts\bin\Debug\Testing out new concepts.exe
+C:\Users\fuzzy\Documents\Visual Studio Repos\using complex dictionaries\Testing out new concepts\bin\Debug\Testing out new concepts.pdb
+C:\Users\fuzzy\Documents\Visual Studio Repos\using complex dictionaries\Testing out new concepts\obj\Debug\Testing out new concepts.csproj.AssemblyReference.cache
+C:\Users\fuzzy\Documents\Visual Studio Repos\using complex dictionaries\Testing out new concepts\obj\Debug\Testing out new concepts.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Documents\Visual Studio Repos\using complex dictionaries\Testing out new concepts\obj\Debug\Testing out new concepts.exe
+C:\Users\fuzzy\Documents\Visual Studio Repos\using complex dictionaries\Testing out new concepts\obj\Debug\Testing out new concepts.pdb
