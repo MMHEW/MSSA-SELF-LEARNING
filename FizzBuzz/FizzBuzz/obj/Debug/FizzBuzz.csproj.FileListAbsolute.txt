@@ -1,7 +1,0 @@
-C:\Users\fuzzy\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
-C:\Users\fuzzy\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
-C:\Users\fuzzy\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
-C:\Users\fuzzy\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.AssemblyReference.cache
-C:\Users\fuzzy\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
-C:\Users\fuzzy\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
-C:\Users\fuzzy\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
