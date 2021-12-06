@@ -1,0 +1,7 @@
+C:\Users\fuzzy\Desktop\challenges\Learning Asynchronous Programming\Asynchronous Breakfast\Asynchronous Breakfast\obj\Debug\Asynchronous Breakfast.csprojAssemblyReference.cache
+C:\Users\fuzzy\Desktop\challenges\Learning Asynchronous Programming\Asynchronous Breakfast\Asynchronous Breakfast\obj\Debug\Asynchronous Breakfast.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\challenges\Learning Asynchronous Programming\Asynchronous Breakfast\Asynchronous Breakfast\bin\Debug\Asynchronous Breakfast.exe.config
+C:\Users\fuzzy\Desktop\challenges\Learning Asynchronous Programming\Asynchronous Breakfast\Asynchronous Breakfast\bin\Debug\Asynchronous Breakfast.exe
+C:\Users\fuzzy\Desktop\challenges\Learning Asynchronous Programming\Asynchronous Breakfast\Asynchronous Breakfast\bin\Debug\Asynchronous Breakfast.pdb
+C:\Users\fuzzy\Desktop\challenges\Learning Asynchronous Programming\Asynchronous Breakfast\Asynchronous Breakfast\obj\Debug\Asynchronous Breakfast.exe
+C:\Users\fuzzy\Desktop\challenges\Learning Asynchronous Programming\Asynchronous Breakfast\Asynchronous Breakfast\obj\Debug\Asynchronous Breakfast.pdb

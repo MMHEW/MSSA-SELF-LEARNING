@@ -1,0 +1,17 @@
+body{
+    background: white;
+   }
+   
+   div.mainContainer {
+       background: tan
+   }
+   
+   div.buttonContainer button{
+       background: black;
+       color: white;
+       text-align: center;
+   }
+   
+   div.buttonContainer{
+       background: tan;
+   }

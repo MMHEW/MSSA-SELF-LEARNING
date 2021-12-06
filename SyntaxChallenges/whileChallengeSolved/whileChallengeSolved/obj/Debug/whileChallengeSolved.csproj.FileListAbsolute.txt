@@ -1,0 +1,14 @@
+E:\visual-studiop\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\bin\Debug\whileChallengeSolved.exe.config
+E:\visual-studiop\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\bin\Debug\whileChallengeSolved.exe
+E:\visual-studiop\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\bin\Debug\whileChallengeSolved.pdb
+E:\visual-studiop\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\obj\Debug\whileChallengeSolved.csproj.AssemblyReference.cache
+E:\visual-studiop\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\obj\Debug\whileChallengeSolved.csproj.CoreCompileInputs.cache
+E:\visual-studiop\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\obj\Debug\whileChallengeSolved.exe
+E:\visual-studiop\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\obj\Debug\whileChallengeSolved.pdb
+C:\Users\fuzzy\Desktop\challenges\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\bin\Debug\whileChallengeSolved.exe.config
+C:\Users\fuzzy\Desktop\challenges\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\bin\Debug\whileChallengeSolved.exe
+C:\Users\fuzzy\Desktop\challenges\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\bin\Debug\whileChallengeSolved.pdb
+C:\Users\fuzzy\Desktop\challenges\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\obj\Debug\whileChallengeSolved.csprojAssemblyReference.cache
+C:\Users\fuzzy\Desktop\challenges\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\obj\Debug\whileChallengeSolved.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\challenges\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\obj\Debug\whileChallengeSolved.exe
+C:\Users\fuzzy\Desktop\challenges\SyntaxChallenges\whileChallengeSolved\whileChallengeSolved\obj\Debug\whileChallengeSolved.pdb
