@@ -37,6 +37,10 @@ int main(){
     cout<<"Test 5: "<<endl;
     cout << XO("zzoo")<<endl;
     cout<< "-------------------------------"<<endl;
+
+    cout<<"Test 6: "<<endl;
+    cout << XO("XxXXxxzzoo")<<endl;
+    cout<< "-------------------------------"<<endl;
     return 0;
 }
 
