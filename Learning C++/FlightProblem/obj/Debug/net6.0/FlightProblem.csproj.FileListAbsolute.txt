@@ -1,0 +1,15 @@
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\bin\Debug\net6.0\FlightProblem.exe
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\bin\Debug\net6.0\FlightProblem.deps.json
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\bin\Debug\net6.0\FlightProblem.runtimeconfig.json
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\bin\Debug\net6.0\FlightProblem.dll
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\bin\Debug\net6.0\ref\FlightProblem.dll
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\bin\Debug\net6.0\FlightProblem.pdb
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\obj\Debug\net6.0\FlightProblem.csproj.AssemblyReference.cache
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\obj\Debug\net6.0\FlightProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\obj\Debug\net6.0\FlightProblem.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\obj\Debug\net6.0\FlightProblem.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\obj\Debug\net6.0\FlightProblem.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\obj\Debug\net6.0\FlightProblem.dll
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\obj\Debug\net6.0\ref\FlightProblem.dll
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\obj\Debug\net6.0\FlightProblem.pdb
+C:\Users\fuzzy\Desktop\Git Repos\MSSA-SELF-LEARNING\Learning C++\FlightProblem\obj\Debug\net6.0\FlightProblem.genruntimeconfig.cache
